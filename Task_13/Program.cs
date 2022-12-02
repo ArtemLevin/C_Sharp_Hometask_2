@@ -11,7 +11,6 @@
 
 int a;
 Console.Write("Пользователь выбрал число: ");
-Console.WriteLine(" ");
 int N = int.Parse(Console.ReadLine()!);
 
 a = N/10;
