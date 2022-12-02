@@ -33,5 +33,5 @@ else
        k++; 
     }
     y = x%10;
-    Console.WriteLine(y);
+    Console.WriteLine($"{N} ---> {y}");
 }
